@@ -1,3 +1,5 @@
+>学习资料：[Django基础入门](https://www.shiyanlou.com/courses/1127)
+
 安装Django
 ```
 $ sudo pip3 install Django==2.0.6
